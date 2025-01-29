@@ -96,7 +96,7 @@ POST /templates/{id}/send
         }
     ]
 }
-
+```
 **Example Success Response:**
 ```json
 {
