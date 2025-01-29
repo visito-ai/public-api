@@ -96,3 +96,16 @@ POST /templates/{id}/send
         }
     ]
 }
+
+**Example Success Response:**
+```json
+{
+    "success": true,
+    "data": {
+        "message": {
+            "id": "679a4c5dc26e774f4a438e85",
+            "waId": "wamid.HBgNNTIxNTU4NTY1NTQ3OBUCABEYEjdGRkFBMTNENTAxNkIzQ0E1RQA="
+        }
+    }
+}
+```
